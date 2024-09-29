@@ -1,0 +1,2 @@
+# Rule
+Custom Clash Rules
